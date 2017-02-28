@@ -1,6 +1,7 @@
 # Declick v2
 
 Declick is an educational and creative platform to learn how to build apps and to create and publish apps, collaboratively with other users.
+
 [www.declick.net](http://www.declick.net)
 
 ## Components
