@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/colombbus/declick-server-v2.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/colombbus/declick-ui.git
