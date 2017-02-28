@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/colombbus/declick-client-v2.git
+[submodule "server"]
+	path = server
+	url = https://github.com/colombbus/declick-server-v2.git
